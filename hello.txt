@@ -1,2 +1,1 @@
-MasterHello Martin!
-TestHello Martin!
+Hello Martin!
