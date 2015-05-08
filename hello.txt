@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 AHello Martin!
+=======
+Hello MARTIN!
+>>>>>>> test
